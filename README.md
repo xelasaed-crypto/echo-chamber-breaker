@@ -137,7 +137,10 @@ Navigate to http://localhost:5173 in your browser.
 docker-compose up --build
 ```
 
+---
+
 ## 🔬 How It Works
+
 ### The Analysis Pipeline
 
 ```
