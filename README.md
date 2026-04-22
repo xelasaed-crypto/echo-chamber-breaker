@@ -193,7 +193,7 @@ We use facebook/bart-large-mnli:
 
 - Zero-shot: Can classify without task-specific training
 
-----
+---
 
 
 ## 🛠️ Tech Stack 
