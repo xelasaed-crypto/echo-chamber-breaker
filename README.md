@@ -139,7 +139,7 @@ docker-compose up --build
 
 ---
 
-## 🔬 How It Works
+## 🔬How It Works
 
 ### The Analysis Pipeline
 
